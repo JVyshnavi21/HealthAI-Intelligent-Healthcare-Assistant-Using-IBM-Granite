@@ -35,10 +35,12 @@ HealthAI--Assistant# 🩺 HealthAI – Intelligent Healthcare Assistant using IB
 pip install gradio transformers torch
 
 ---
-🖥️ How to Run Locally
+## 🖥️ How to Run Locally
 
-# Install dependencies
-pip install -r requirements.txt
+---
+
+#Install dependencies
+- pip install -r requirements.txt
 
 #Run the app
-python health_ai_gradio.py
+ - python health_ai_gradio.py
