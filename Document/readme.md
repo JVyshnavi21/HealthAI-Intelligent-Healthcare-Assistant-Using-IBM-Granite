@@ -36,6 +36,13 @@
 
 ---
 
+✅ Requirements
+ - Install Dependencies:
+ - pip install gradio transformers torch
+
+---
+
+
 
 ## 🖥️ How to Run Locally
 
