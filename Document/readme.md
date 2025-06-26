@@ -2,7 +2,8 @@
 
 🚀 Internship Project by **J.Vyshnavi Reddy**  
 🎓 Santhiram Engineering College 
-🧠 Platform: SmartInternz with IBM  
+
+🧠  Platform: SmartInternz with IBM  
 📅 Duration: May–June 2025  
 
 ---
