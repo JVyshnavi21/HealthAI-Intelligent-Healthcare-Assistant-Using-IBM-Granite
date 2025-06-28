@@ -1,6 +1,6 @@
 # HealthAI--Assistant# 🩺 HealthAI – Intelligent Healthcare Assistant using IBM Granite
 
-🚀 Internship Project by **J.Vyshnavi Reddy**  
+🚀 Internship Project by **J.Vyshnavi Reddy, J.Archana**  
 🎓 Santhiram Engineering College 
 
 🧠  Platform: SmartInternz with IBM  
